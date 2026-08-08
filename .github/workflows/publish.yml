@@ -1,7 +1,5 @@
 name: Publish to NPM
 
-# Bu otomasyon ne zaman çalışsın?
-# Github'da yeni bir "Release" (Sürüm) oluşturduğunda çalışır.
 on:
   release:
     types: [created]
